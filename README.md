@@ -1,2 +1,2 @@
-# Java
-All Java projects
+# JavaScript
+All JavaScript projects
