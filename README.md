@@ -1,2 +1,2 @@
 # JavaScript
-All JavaScript projects
+Magic square Algorithm
